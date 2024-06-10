@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "horrorAudioPlaybackController",
+  "identifier": "playback_controller_model:96864-65f4904c-94e5-4ae3-b25c-477daa8901d7",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:96866-65f4904c-94e5-4ae3-b25c-477daa8901d7"
+}
