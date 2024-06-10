@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Start Game",
+  "identifier": "texture:93356-7e1ba4fb-8128-4f4a-ab16-6f6a4155eddd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "233e8be6fe1b1c1d465f358cdca0ba54",
+  "assetLocator": "textures/Start Game.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 591,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 591,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "233e8be6fe1b1c1d465f358cdca0ba54",
+      "colorCount": 94655,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.73559742178798,
+      "pixelsHigh": 591,
+      "pixelsWide": 591
+    }
+  ]
+}
